@@ -15,7 +15,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>Home</title>
+        <title>Home 🇳🇵</title>
       </head>
       <header className='fixed top-0  w-full'>
         <NavBar />
