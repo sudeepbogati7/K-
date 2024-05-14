@@ -17,7 +17,7 @@ export default function RootLayout({
       <head>
         <title>Home 🇳🇵</title>
       </head>
-      <header className='fixed top-0  w-full'>
+      <header className='fixed top-0 z-50  w-full'>
         <NavBar />
       </header>
       <body className={inter.className}>{children}</body>
