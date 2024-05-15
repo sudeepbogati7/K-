@@ -27,7 +27,7 @@ export default function Home() {
               name="password"
               placeholder="**********" />
           </div>
-          <button >
+          <button className="py-2 px-4 border-gray-400 bg-blue-600 text-white" >
             Login 
           </button>
         </form>
