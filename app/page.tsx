@@ -27,6 +27,9 @@ export default function Home() {
               name="password"
               placeholder="**********" />
           </div>
+          <button >
+            Login 
+          </button>
         </form>
       </div>
 
